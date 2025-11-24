@@ -1,6 +1,6 @@
 ## Step-by-step
 
-This section is a step-by-step guide for people newer to the Arduino ecosystem. It will guide you through getting the required software to flash your and control your PS4.
+This section is a step-by-step guide for people newer to the Arduino ecosystem. It will guide you through getting the required software to flash your Arduino and control your PS4.
 
 ### Plan
 
